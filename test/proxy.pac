@@ -2,6 +2,9 @@
 // https://github.com/clowwindy/gfwlist2pac
 
 var domains = {
+  "ggpht.com": 1,
+  "googlesyndication.com": 1,
+  "photobucket.com": 1,
   "gimpshop.com": 1, 
   "directcreative.com": 1, 
   "speedpluss.org": 1, 
